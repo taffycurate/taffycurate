@@ -55,5 +55,5 @@ For feedback and suggestions:
 
 ---
 <div align="center">
-  <sub>© 2025 Taffy Team. Built with ❤️ using Flutter.</sub>
+  <sub>© 2025 Taffy Curate. Built with ❤️ using Flutter.</sub>
 </div>
