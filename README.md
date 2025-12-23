@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Taffy</b> is a modern video assistant that turns scattered video links into a neat archive.<br>
-  Save your favorite content from YouTube and other platforms, organize them with <b>#tags</b>, and build your own video world.
+  Add your favorite content from YouTube (and from other platforms in future), organize them with <b>#tags</b>, and build your own video world.
 </p>
 
 </div>
@@ -22,7 +22,7 @@
 ## 🚀 Features
 
 * **🏷️ Dynamic Tagging:** Don't get stuck in folders. Add unlimited tags to videos and create smart, auto-updating lists.
-* **🔒 Offline-First & Private:** Your data stays 100% on your device. No servers, no cloud, no tracking.
+* **🔒 Offline-First & Private:** Your library data (tags, notes, lists) stays 100% on your device. No extra servers, no cloud, no tracking.
 * **📂 Collection Management:** Import playlists with a single click, group lists into folders, and curate your library.
 * **🔍 Advanced Search:** Never lose a video. Filter instantly by tag, name, or date.
 
