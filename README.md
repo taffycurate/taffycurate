@@ -3,7 +3,7 @@
 <div align="center">
 
 # Taffy: Your Personal Video Library
-### Archive. Tag. Organize.
+### Archive. Tag. Organise.
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green?style=flat&logo=android)](https://play.google.com/store/apps/details?id=com.taffy.curate)
 [![Framework](https://img.shields.io/badge/Built%20with-Flutter-blue?style=flat&logo=flutter)](https://flutter.dev)
@@ -12,7 +12,7 @@
 
 <p align="center">
   <b>Taffy</b> is a modern video assistant that turns scattered video links into a neat archive.<br>
-  Add your favorite content from YouTube (and from other platforms in future), organize them with <b>#tags</b>, and build your own video world.
+  Add your favourite content from YouTube (and from other platforms in future), organise them with <b>#tags</b>, and build your own video world.
 </p>
 
 </div>
