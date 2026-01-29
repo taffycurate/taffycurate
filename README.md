@@ -40,7 +40,7 @@
 
 ## 📥 Download
 
-Taffy is coming soon to Google Play Store!
+Taffy is now on the Google Play Store!
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>](https://play.google.com/store/apps/details?id=com.taffy.curate)
 
