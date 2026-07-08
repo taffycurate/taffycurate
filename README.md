@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/29820159/README.md)
 # ![Taffy Banner](github_banner.png)
 
 <div align="center">
@@ -11,8 +12,8 @@
 [![X (Twitter)](https://img.shields.io/badge/Follow-TaffyCurate-black?style=flat&logo=x)](https://x.com/TaffyCurate)
 
 <p align="center">
-  <b>Taffy</b> is a modern video assistant that turns scattered video links into a neat archive.<br>
-  Add your favourite content from YouTube (and from other platforms in future), organise them with <b>#tags</b>, and build your own video world.
+  <b>Taffy</b> is a modern video assistant that turns scattered video links and local files into a neat archive.<br>
+  Add your favourite content from YouTube and import Local Videos directly from your device, organise them with <b>#tags</b>, and build your own video world.
 </p>
 
 </div>
@@ -22,9 +23,10 @@
 ## 🚀 Features
 
 * **🏷️ Dynamic Tagging:** Don't get stuck in folders. Add unlimited tags to videos and create smart, auto-updating lists.
+* **📱 Local Video Support:** Import videos directly from your device storage. Play, share natively, or open local files in external players without internet.
 * **🔒 Offline-First & Private:** Your library data (tags, notes, lists) stays 100% on your device. No extra servers, no cloud, no tracking.
-* **📂 Collection Management:** Import playlists with a single click, group lists into folders, and curate your library.
-* **🔍 Advanced Search:** Never lose a video. Filter instantly by tag, name, or date.
+* **📂 Collection Management:** Import YouTube playlists with a single click, group lists into folders, and curate your library.
+* **🔍 Smart Filtering & Search:** Never lose a video. Instantly filter your library by "YouTube" or "Local" content, tags, names, or dates.
 
 ---
 
@@ -40,7 +42,7 @@
 
 ## 📥 Download
 
-Taffy is now on the Google Play Store!
+Taffy is available now on Google Play Store!
 
 [<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>](https://play.google.com/store/apps/details?id=com.taffy.curate)
 
@@ -55,5 +57,5 @@ For feedback and suggestions:
 
 ---
 <div align="center">
-  <sub>© 2025 Taffy Curate. Built with ❤️ using Flutter.</sub>
+  <sub>© 2026 Taffy Curate. Built with ❤️ using Flutter.</sub>
 </div>
