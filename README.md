@@ -23,7 +23,7 @@
 ## 🚀 Features
 
 * **🏷️ Dynamic Tagging:** Don't get stuck in folders. Add unlimited tags to videos and create smart, auto-updating lists.
-* **📱 Local Video Support:** Import videos directly from your device storage. Play, share natively, or open local files in external players without internet.
+* **📱 Local Video Support:** Import videos directly from your device storage. Play, share natively, or open local files in external players.
 * **🔒 Offline-First & Private:** Your library data (tags, notes, lists) stays 100% on your device. No extra servers, no cloud, no tracking.
 * **📂 Collection Management:** Import YouTube playlists with a single click, group lists into folders, and curate your library.
 * **🔍 Smart Filtering & Search:** Never lose a video. Instantly filter your library by "YouTube" or "Local" content, tags, names, or dates.
